@@ -3,7 +3,7 @@ title: Interview Guide
 subtitle: Student Experiences and Perspectives on Learning to Code in 2024
 date: 2024-09
 abstract: |
-    This interview guide was used by interviewers during the 2024 study.
+    This interview guide was used by interviewers _during_ interviews with students (i.e. it was open on a second screen). Note that these were _semi-structured_ interviews and hence this served as a loose guide and _not_ a protocol.
 
 metadata-files:
   - metadata/authors-joe.yml
